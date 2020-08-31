@@ -8,3 +8,8 @@ print(v * v)
 # tal1 = input('skriv ett tal? ')
 
 # print(tal1 + 2389572389)
+
+svar = input('HELT TALL: ')
+x = int(svar)
+y = x * x / x 
+print ('TOTALT ', y)
