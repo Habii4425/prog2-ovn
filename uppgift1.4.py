@@ -1,8 +1,7 @@
 # Uppgift1.4.py
 
-name = input (' vad heter du? ')
-efternam = input ('efternam? ')
-ålder = input ('hur gammal är du? ')
-print ('Hej',  name)
-print (' ',efternam) 
-print(' ', ålder) 
+name = input (' Vad heter du? ')
+surname = input ('Efternamn? ')
+age = input ('Ålder? ')
+sex = input ('Male/Female? ')
+print ('Hej',  name, ' ', surname, ' ', age, ' ', sex)
