@@ -3,4 +3,6 @@
 name = input (' vad heter du? ')
 efternam = input ('efternam? ')
 ålder = input ('hur gammal är du? ')
-print = ('Hej', name, efternam, ålder) 
+print ('Hej',  name)
+print (' ',efternam) 
+print(' ', ålder) 
