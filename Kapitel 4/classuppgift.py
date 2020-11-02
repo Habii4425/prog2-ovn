@@ -1,7 +1,7 @@
 import random
 
 correct = random.randint(1, 20)
-guasses = 1
+guasses = 0
 
 guess = 0
 while guess != correct:
